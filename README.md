@@ -1,7 +1,3 @@
-#Recipes-project
-
-##About
-
 Mini-project about recipes 
 You can add to favorite recipe or add new recipe
 
