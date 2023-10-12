@@ -48,7 +48,3 @@ npm start
 
 
 6. You can find more titles and photos for add new recipe by following  https://themealdb.com/api/json/v1/1/search.php?f=a
-
-```
-  json-server --watch db.json --port <Your port>
-```
